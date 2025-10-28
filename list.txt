@@ -1,7 +1,4 @@
-- apple
-- banana
-- eggs
-- pasta
-- soda
-- beer
-- 
+aepfel
+birnen
+bier
+lebakaaas
